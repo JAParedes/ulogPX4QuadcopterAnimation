@@ -4,7 +4,7 @@ Matlab files that can be used to animate the flight trajectory of a quadcopter u
 ## Files
 * **animate_Test.m** : Animates quadcopter trajectory using PX4 log file (ulog format).
 * **animate_Test_Theta.m** : nimates quadcopter trajectory using PX4 log file (ulog format). Also, shows evolution of RCAC theta parameters [1].
-* **animate_Test_Theta_AUtotuned.m** : Animates quadcopter trajectory using PX4 log file (ulog format). Also, shows autotuned RCAC theta parameters [1].
+* **animate_Test_Theta_Autotuned.m** : Animates quadcopter trajectory using PX4 log file (ulog format). Also, shows autotuned RCAC theta parameters [1].
 
 ## References
 
