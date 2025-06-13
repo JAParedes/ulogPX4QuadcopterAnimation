@@ -13,4 +13,4 @@ Matlab files that can be used to animate the flight trajectory of a quadcopter u
 
 ## Citing work
 
-* **[1] Spencer, J., Lee, J., Paredes, J. A., Goel, A., & Bernstein, D.**. "An adaptive PID autotuner for multicopters with experimental results," arXiv preprint arXiv:2109.12797, accepted to ICRA 2022
+* **[1] Spencer, J., Lee, J., Paredes, J. A., Goel, A., & Bernstein, D.** "An Adaptive PID Autotuner for Multicopters with Experimental Results," 2022 International Conference on Robotics and Automation (ICRA), Philadelphia, PA, USA, 2022, pp. 7846-7853, doi: 10.1109/ICRA46639.2022.9812065.
